@@ -1,0 +1,9 @@
+**/target
+**/build
+**/move_repo
+**/quantitative_analysis_repos
+*aptos*
+*move*
+*conf-res*
+*last_commit_dates*
+.env
